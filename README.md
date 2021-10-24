@@ -37,5 +37,9 @@ The election dataset can be crawled from Twitter according to the dataset https:
 | Fake Followers        | 45 |  0.54%    |
 #### Network of Twitter Retweet Relations
 <img src="p1.jpg"/>
+The left figure is the two communities of users. The right figure is the network with four types of accounts (green for human, red for social spam, blue for fake follower and black for traditional spam) 
+<br/><br>
+
+
 By observing the location of bots, we can find that Social spam mainly exists in three parts of the network: The bots in network center has a high degree and is a transit point for the dissemination of opinion leaders’ tweets. Some social spams act as a bridge between the two communities. The retweet actions of bot are mainly controlled by computer programs and will not be affected by political tendencies. To a certain extent, the two opposing groups are contacted for information exchange by these bots. And some bots in the edge of the network are no longer retweeted by others and
 have a decreasing importance.
